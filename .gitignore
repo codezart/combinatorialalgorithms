@@ -1,0 +1,6 @@
+*.zip
+*.tar.gz
+*.csv
+datasets/*
+logs/*
+pycache__/*
